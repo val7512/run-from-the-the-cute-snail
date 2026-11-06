@@ -1,4 +1,4 @@
-This is a 2 platformer game 
+This is a 2d platformer game. 
 
 *controls:*
 
