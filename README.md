@@ -18,6 +18,7 @@ https://www.youtube.com/watch?v=oED12Mo2018&t=1542s
 
 https://www.youtube.com/watch?v=Z9W4bSdeC04&t=1642s
 
-<img width="1211" height="696" alt="image" src="https://github.com/user-attachments/assets/6ef4e8fa-5a2f-453f-a2d5-95dbc3739618" />
+<img width="790" height="430" alt="image" src="https://github.com/user-attachments/assets/5786944d-d2b9-43bd-a26e-7881fcb3985c" />
+
 
 Thank you!!
